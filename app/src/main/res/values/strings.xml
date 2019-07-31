@@ -7,4 +7,7 @@
     <string name="already_registered">Already Registered</string>
     <string name="new_register">Register new Account</string>
     <string name="choose_options_login">Choose one of the following Option</string>
+    <string name="verify_phone">Please verify phone by entering the verification code sent to your phone number</string>
+    <string name="button_verify">Verify</string>
+    <string name="hint_confirmation">6 digit Confirmation code</string>
 </resources>
